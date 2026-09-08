@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://bake-haz.github.io/workplace-problems/sitemap.xml
+Sitemap: https://www.realworkproblems.com/sitemap.xml
